@@ -15,3 +15,14 @@ A combinação dessas linguagens permitiu criar uma experiência interativa, tor
 # Agradecimentos ao aprendizado
 
 * @ManualdoDev ( canal do Youtube )
+  
+# Print das Telas
+
+* Tela 1 - Página de Login
+
+  ![tela 1 MG](https://github.com/Carla-coder/memory-game/assets/128012862/953e651d-cff8-422c-8c68-68e46873b6a4)
+
+* Tela 2 -  Start Página do Jogo Memory Game
+
+  ![tela 2 MG](https://github.com/Carla-coder/memory-game/assets/128012862/c07958ec-4809-4014-821f-963e63130372)
+
